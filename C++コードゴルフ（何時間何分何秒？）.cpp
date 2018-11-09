@@ -1,0 +1,1 @@
+a;main(s){s=3723,a=60;printf("%ds=%dh%dm%ds",s,s/a/a,s%(a*a)/a,s%a);}

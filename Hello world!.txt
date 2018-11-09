@@ -1,0 +1,13 @@
+//in Scala
+object Main extends App {
+
+	val hello:String = "Hello world!";
+
+	println(hello);
+
+}
+
+#in Perl
+#!/usr/bin/perl
+my $hello = "Hello world!";
+printf("%s\n",$hello);
